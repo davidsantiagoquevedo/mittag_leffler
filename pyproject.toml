@@ -1,0 +1,18 @@
+[project]
+name = "mittag_leffler"
+version = "0.0.1"
+authors = [
+  { name="David Santiago Quevedo", email="davidsantiagoquevedo@gmail.com" },
+]
+description = "Raw implementation of the Mittag-Leffler functions for my own research needs. Planning on expanding in the future to a stable version."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/davidsantiagoquevedo/mittag-leffler"
+Issues = "https://github.com/davidsantiagoquevedo/mittag-leffler/issues"
